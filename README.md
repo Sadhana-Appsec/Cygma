@@ -26,21 +26,22 @@ For MAC:
     brew install tesseract
 
 3. Directory Structure:
-    Cygma-Mac/
-    ├── app.py
-    ├── files/
-    │   └── [uploads + images/]
-    ├── static/
-    │   ├── style.css
-    │   └── images/
-    │       ├── logo_photon.svg
-    │       └── Cygma_logo.png
-    ├── templates/
-    │   ├── layout.html
-    │   ├── index.html
-    │   ├── search.html
-    │   └── view_docx.html
-    └── requirements.txt  
+Cygma-Mac/
+├── app.py
+├── files/
+│   └── [uploads + images/]
+├── static/
+│   ├── style.css
+│   └── images/
+│       ├── logo_photon.svg
+│       └── Cygma_logo.png
+├── templates/
+│   ├── layout.html
+│   ├── index.html
+│   ├── search.html
+│   └── view_docx.html
+└── requirements.txt
+ 
 
 4. Run the app:
     python app.py / python3 app.py
