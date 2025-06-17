@@ -14,7 +14,7 @@ A lightweight document uploader and keyword search engine supporting `.pdf`, `.d
 - View `.docx` files with inline images
 - OCR-enabled keyword matching for scanned documents
 
-========
+---
 For MAC:
 🛠 SETUP INSTRUCTIONS (cmd - In terminal)
 ---------------------
